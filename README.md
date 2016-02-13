@@ -83,6 +83,7 @@ We have a few CLI options available for you:
     -h, --help                  output usage information
     -V, --version               output the version number
     -S, --skip-taskbar          Skip showing the application in the taskbar
+    -f, --frameless             Create a frameless window
     --minimize-to-tray          Hide window to tray instead of minimizing
     --hide-via-tray             Hide window to tray instead of minimizing (only for tray icon)
     --allow-multiple-instances  Allow multiple instances of `google-music-electron` to run
