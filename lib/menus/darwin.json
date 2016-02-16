@@ -70,6 +70,10 @@
       "label": "Minimize",
       "role": "minimize",
       "accelerator": "Command+M"
+    }, {
+      "label": "Toggle MiniPlayer",
+      "command": "window:toggle-miniplayer",
+      "accelerator": "Shift+Command+M"
     }]
   }]
 }
