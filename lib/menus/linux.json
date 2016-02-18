@@ -53,6 +53,14 @@
       "command": "window:toggle-miniplayer",
       "accelerator": "Control+Shift+M"
     }, {
+      "label": "Always on Top",
+      "type": "checkbox",
+      "command": "window:always-on-top"
+    }, {
+      "label": "Visible on all Workspaces",
+      "type": "checkbox",
+      "command": "window:visible-on-all-workspaces"
+    }, {
       "label": "Developer",
       "submenu": [{
         "label": "Toggle Developer &Tools",

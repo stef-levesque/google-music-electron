@@ -55,6 +55,10 @@
       "command": "window:toggle-miniplayer",
       "accelerator": "Control+Shift+M"
     }, {
+      "label": "Always on Top",
+      "type": "checkbox",
+      "command": "window:always-on-top"
+    }, {
       "label": "Developer",
       "submenu": [{
         "label": "Toggle Developer &Tools",

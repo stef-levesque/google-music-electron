@@ -74,6 +74,19 @@
       "label": "Toggle MiniPlayer",
       "command": "window:toggle-miniplayer",
       "accelerator": "Shift+Command+M"
+    }, {
+      "type": "separator"
+    }, {
+      "label": "Always on Top",
+      "type": "checkbox",
+      "command": "window:always-on-top"
+    }, {
+      "label": "Visible on all Workspaces",
+      "type": "checkbox",
+      "command": "window:visible-on-all-workspaces"
+    }, {
+      "label": "Bring All to Front",
+      "role": "front"
     }]
   }]
 }
